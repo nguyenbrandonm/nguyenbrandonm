@@ -1,6 +1,6 @@
 <!-- ====== PROFILE HEADER ====== -->
 <p align="center">
-  <img width="512" height="512" alt="An_Asian_Hacker" src="https://github.com/user-attachments/assets/f9c4a14d-d483-4dde-8bdb-9a244345855c" />
+  <img width=<img width="512" height="512" alt="An_Asian_Hacker" src="https://github.com/user-attachments/assets/bf7d2be0-1c1a-4ee6-8a9a-e4c8fc17f72a" />
 </p>
 
 <h1 align="center"> An_Asian | Offensive Security</h1>
