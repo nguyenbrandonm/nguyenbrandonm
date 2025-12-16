@@ -44,5 +44,5 @@ Hello, I'm Brandon! I’m a veteran and cybersecurity professional, trading miss
 
 ## Education
 * Bachelor's, Cybersecurity - Southern New Hampshire University
-* Applied Cybersecurity Certificate (ACS) - SANS Institute of Technology
-* Penetration Testing & Ethical Hacking Graduate Certificate - SANS Institute of Technology (In-Progress)
+* Undergraduate Certificate in Applied Cybersecurity (ACS) - SANS Technology Institute
+* Penetration Testing & Ethical Hacking Graduate Certificate - SANS Technology Institute (In-Progress)
