@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/nguyenbrandonm">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">  
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenbrandonm.profile" alt="Visitor Count">
 </p>
 
 ---
