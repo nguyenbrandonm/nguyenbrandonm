@@ -11,9 +11,13 @@
 
 ---
 <p align="center">
+  <a href="https://github.com/nguyenbrandonm">
+    <img src="https://img.shields.io/badge/Portfolio-An_Asian-red?logo=github&style=flat-square" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/nguyenbrandonm">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">  
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenbrandonm.profile">
 </p>
 
 ---
@@ -22,6 +26,7 @@
 Hello, I'm Brandon! I’m a veteran and cybersecurity professional, trading missile systems and command-and-control consoles for source code and manual testing. My work centers on application security by validating vulnerabilities, supporting dynamic testing for web and mobile apps, and helping developers close the gaps attackers love to exploit. My time in the military taught me how to pick up complex concepts fast, stay calm under pressure, and work well with any team.
 
 # Cyber Projects
+* <a href="https://github.com/nguyenbrandonm/Vulnerable-Webserver/blob/main/README.md">Vulnerable PHP Web Application</a>
 * <a href="https://github.com/nguyenbrandonm/Active-Directory-Attack-Lab">External/Internal Active Directory Attack Lab</a>
 * <a href="https://github.com/nguyenbrandonm/AppSec-Attack-Lab/blob/main/README.md">AppSec Attack Lab</a>
 
