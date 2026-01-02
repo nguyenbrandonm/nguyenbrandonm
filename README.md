@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/nguyenbrandonm">
+  <a href="https://github.com/nguyenbrandonm?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-An_Asian-red?logo=github&style=flat-square" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/nguyenbrandonm">
