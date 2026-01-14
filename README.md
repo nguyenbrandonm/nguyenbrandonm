@@ -34,6 +34,7 @@ Hello, I'm Brandon! I’m a veteran and cybersecurity professional, trading miss
 
 # Credentials
 ## Certifications
+[![GPEN](https://img.shields.io/badge/GIAC-GPEN-red?logo=sans&logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile) 
 [![GWAPT](https://img.shields.io/badge/GIAC-GWAPT-red?logo=sans&logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile) 
 [![GCIH](https://img.shields.io/badge/GIAC-GCIH-red?logo=sans&logoColor=white)](https://www.credly.com/badges/99c0cc11-b760-43ed-9ee7-d38a2a143feb/linked_in_profile) 
 [![GSEC](https://img.shields.io/badge/GIAC-GSEC-blue?logo=sans&logoColor=white)](https://www.credly.com/badges/d78960d3-3aae-4933-8893-4bf105b48923/linked_in_profile) 
