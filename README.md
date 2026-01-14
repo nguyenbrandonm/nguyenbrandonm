@@ -26,7 +26,8 @@
 Hello, I'm Brandon! I’m a veteran and cybersecurity professional, trading missile systems and command-and-control consoles for source code and manual testing. My work centers on application security by validating vulnerabilities, supporting dynamic testing for web and mobile apps, and helping developers close the gaps attackers love to exploit. My time in the military taught me how to pick up complex concepts fast, stay calm under pressure, and work well with any team.
 
 # Cyber Projects
-*  <a href="https://github.com/nguyenbrandonm/CTF-Walkthroughs">CTF Write-ups</a>
+* <a href="https://github.com/nguyenbrandonm/Blog/tree/main">Educational Blog</a>
+* <a href="https://github.com/nguyenbrandonm/CTF-Walkthroughs">CTF Write-ups</a>
 * <a href="https://github.com/nguyenbrandonm/Vulnerable-Webserver/blob/main/README.md">"JumpBox" - A Vulnerable Web Application</a>
 * <a href="https://github.com/nguyenbrandonm/Active-Directory-Attack-Lab">Active Directory Attack Lab</a>
 * <a href="https://github.com/nguyenbrandonm/AppSec-Attack-Lab/blob/main/README.md">AppSec Attack Lab</a>
