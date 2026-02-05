@@ -1,12 +1,12 @@
 <!-- ====== PROFILE HEADER ====== -->
 <p align="center">
-  <img width="1536" height="1024" src="https://github.com/user-attachments/assets/e6413c55-ba80-40dd-9125-2922b76201b3" />
+  <img width="900" height="600" src="https://github.com/user-attachments/assets/e6413c55-ba80-40dd-9125-2922b76201b3" />
 </p>
 
 <h1 align="center"> Calx0r | Offensive Security</h1>
 
 <p align="center">
-  <i>Breaking Things For The Better</i>
+  <i>Breaking things for the better</i>
 </p>
 
 ---
@@ -30,8 +30,9 @@ I came up administering and operating command-and-control systems where reliabil
 
 Methodical. Adaptable. Calm at the console.
 
+---
 
-# Cyber Projects
+## Cyber Projects
 * <a href="https://github.com/nguyenbrandonm/Blog/tree/main">Educational Blog</a>
 * <a href="https://github.com/nguyenbrandonm/CTF-Walkthroughs">CTF Write-ups</a>
 * <a href="https://github.com/nguyenbrandonm/Vulnerable-Webserver/blob/main/README.md">"JumpBox" - A Vulnerable Web Application</a>
