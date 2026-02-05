@@ -1,18 +1,18 @@
 <!-- ====== PROFILE HEADER ====== -->
 <p align="center">
-  <img width=<img width="512" height="512" alt="An_Asian_Hacker" src="https://github.com/user-attachments/assets/bf7d2be0-1c1a-4ee6-8a9a-e4c8fc17f72a" />
+  <img width="700" height="950" src="https://github.com/user-attachments/assets/e2fdcaec-fdbe-466c-9df6-c88ed8874b80" />
 </p>
 
-<h1 align="center"> An_Asian | Offensive Security</h1>
+<h1 align="center"> CALXOR | Offensive Security</h1>
 
 <p align="center">
-  <i>Application Security | Network Security  | Breaking Things For The Better</i>
+  <i>Breaking Things For The Better</i>
 </p>
 
 ---
 <p align="center">
   <a href="https://github.com/nguyenbrandonm?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-An_Asian-red?logo=github&style=flat-square" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-CALXOR-green?logo=github&style=flat-square" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/nguyenbrandonm">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn">  
@@ -23,7 +23,7 @@
 ---
 <!-- ====== PROFESSIONAL INFO ====== -->
 # #whoami
-Hello, I'm Brandon! I’m a veteran and cybersecurity professional, trading missile systems and command-and-control consoles for source code and manual testing. My work centers on application security by validating vulnerabilities, supporting dynamic testing for web and mobile apps, and helping developers close the gaps attackers love to exploit. My time in the military taught me how to pick up complex concepts fast, stay calm under pressure, and work well with any team.
+Hello, I'm Brandon! I also go by CALXOR (Cal-Zor). I’m a veteran and cybersecurity professional, trading missile systems and command-and-control consoles for source code and manual testing. My work centers on application security by validating vulnerabilities, supporting dynamic testing for web and mobile apps, and helping developers close the gaps attackers love to exploit. My time in the military taught me how to pick up complex concepts fast, stay calm under pressure, and work well with any team.
 
 # Cyber Projects
 * <a href="https://github.com/nguyenbrandonm/Blog/tree/main">Educational Blog</a>
