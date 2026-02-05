@@ -1,6 +1,6 @@
 <!-- ====== PROFILE HEADER ====== -->
 <p align="center">
-  <img width="700" height="1050" src="https://github.com/user-attachments/assets/e2fdcaec-fdbe-466c-9df6-c88ed8874b80" />
+  <img width="1536" height="1024" alt="CALX0R" src="https://github.com/user-attachments/assets/e6413c55-ba80-40dd-9125-2922b76201b3" />
 </p>
 
 <h1 align="center"> CALXOR | Offensive Security</h1>
@@ -23,7 +23,7 @@
 ---
 <!-- ====== PROFESSIONAL INFO ====== -->
 # #whoami
-Hello, I'm Brandon! I also go by CALXOR (Cal-Zor). I’m a veteran and cybersecurity professional, trading missile systems and command-and-control consoles for source code and manual testing. My work centers on application security by validating vulnerabilities, supporting dynamic testing for web and mobile apps, and helping developers close the gaps attackers love to exploit. My time in the military taught me how to pick up complex concepts fast, stay calm under pressure, and work well with any team.
+Hello, my name is Brandon, I also go by CALXOR (Cal-Zor). I’m a veteran and cybersecurity professional, trading missile systems and command-and-control consoles for source code and manual testing. My work centers on application security by validating vulnerabilities, supporting dynamic testing for web and mobile apps, and helping developers close the gaps attackers love to exploit. My time in the military taught me how to pick up complex concepts fast, stay calm under pressure, and work well with any team.
 
 # Cyber Projects
 * <a href="https://github.com/nguyenbrandonm/Blog/tree/main">Educational Blog</a>
