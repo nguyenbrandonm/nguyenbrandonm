@@ -22,8 +22,14 @@
 
 ---
 <!-- ====== PROFESSIONAL INFO ====== -->
-# #whoami
-Hello, I'm Calx0r (Cal-Zor). I’m a veteran and offensive security professional, trading missile systems and command-and-control consoles for source code and manual testing. My work centers on application security by validating vulnerabilities, supporting dynamic testing for web and mobile apps, and helping developers close the gaps attackers love to exploit. My time in the military taught me how to pick up complex concepts fast, stay calm under pressure, and work well with any team.
+## #whoami
+
+Hello, I'm Calx0r.
+
+I came up administering and operating command-and-control systems where reliability, access, and timing mattered. That background shapes how I approach offensive security today, focusing on understanding systems end-to-end, validating vulnerabilities, and testing how software behaves when assumptions break.
+
+Methodical. Adaptable. Calm at the console.
+
 
 # Cyber Projects
 * <a href="https://github.com/nguyenbrandonm/Blog/tree/main">Educational Blog</a>
