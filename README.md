@@ -24,9 +24,9 @@
 <!-- ====== PROFESSIONAL INFO ====== -->
 ## #whoami
 
-Hello, I'm Calx0r.
+Hello, I’m Brandon (Calx0r).
 
-I came up administering and operating command-and-control systems where reliability, access, and timing mattered. That background shapes how I approach offensive security today, focusing on understanding systems end-to-end, validating vulnerabilities, and testing how software behaves when assumptions break.
+I came up administering and operating command-and-control systems where reliability, access, and timing mattered. That background shapes how I approach offensive security today, focusing on understanding systems end-to-end, validating vulnerabilities and testing how software behaves when assumptions break.
 
 Methodical. Adaptable. Calm at the console.
 
