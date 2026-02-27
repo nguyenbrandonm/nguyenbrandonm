@@ -24,9 +24,9 @@
 <!-- ====== PROFESSIONAL INFO ====== -->
 ## #whoami
 
-Hello, I’m Brandon (Calx0r).
+I’m Calx0r, a Network Administrator who approaches infrastructure with an offensive security mindset. I focus on secure configuration, segmentation, and reliability, backed by hands-on penetration testing and vulnerability analysis experience.
 
-I came up administering and operating command-and-control systems where reliability, access, and timing mattered. That background shapes how I approach offensive security today, focusing on understanding systems end-to-end, validating vulnerabilities and testing how software behaves when assumptions break.
+I study how networks and systems break so I can build them stronger.
 
 Methodical. Adaptable. Calm at the console.
 
