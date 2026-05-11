@@ -41,6 +41,7 @@ Methodical. Adaptable. Calm at the console.
 
 # Credentials
 ## Certifications
+[![GXPN](https://img.shields.io/badge/GIAC-GXPN-red?logo=sans&logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile) 
 [![GPEN](https://img.shields.io/badge/GIAC-GPEN-red?logo=sans&logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile) 
 [![GWAPT](https://img.shields.io/badge/GIAC-GWAPT-red?logo=sans&logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile) 
 [![GCIH](https://img.shields.io/badge/GIAC-GCIH-red?logo=sans&logoColor=white)](https://www.credly.com/badges/99c0cc11-b760-43ed-9ee7-d38a2a143feb/linked_in_profile) 
