@@ -41,22 +41,24 @@ Methodical. Adaptable. Calm at the console.
 
 # Credentials
 ## Certifications
-[![GXPN](https://img.shields.io/badge/GIAC-GXPN-red?logo=sans&logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile) 
-[![GPEN](https://img.shields.io/badge/GIAC-GPEN-red?logo=sans&logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile) 
-[![GWAPT](https://img.shields.io/badge/GIAC-GWAPT-red?logo=sans&logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile) 
-[![GCIH](https://img.shields.io/badge/GIAC-GCIH-red?logo=sans&logoColor=white)](https://www.credly.com/badges/99c0cc11-b760-43ed-9ee7-d38a2a143feb/linked_in_profile) 
-[![GSEC](https://img.shields.io/badge/GIAC-GSEC-blue?logo=sans&logoColor=white)](https://www.credly.com/badges/d78960d3-3aae-4933-8893-4bf105b48923/linked_in_profile) 
-[![GFACT](https://img.shields.io/badge/GIAC-GFACT-purple?logo=sans&logoColor=white)](https://www.credly.com/badges/d473aff5-27e2-45d7-abf4-f4e0a2bb5790/linked_in_profile) 
-[![GIAC Advisory Board](https://img.shields.io/badge/GIAC-Advisory%20Board-FFD700?&logoColor=white)](https://www.credly.com/badges/88da592c-90f0-483d-9e09-93462a06a7fe/linked_in_profile)
-&nbsp;&nbsp;  
-[![PNPT](https://img.shields.io/badge/TCM%20Security-PNPT-9b0000?logo=tcm&logoColor=white)](https://certified.tcm-sec.com/bea749eb-a244-42cd-bafb-18988d5e554d#acc.tixaW9NP)
-[![PJPT](https://img.shields.io/badge/TCM%20Security-PJPT-9b0000?logo=tcm&logoColor=white)](https://certified.tcm-sec.com/776f2019-2622-424e-abc5-30f6d8a9e1fd#acc.yxN0fos1)
-&nbsp;&nbsp;  
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E62B1E?logoColor=white)](https://www.credly.com/badges/0cd93497-b84a-4ffe-80b7-7f830456d40e/linked_in_profile)
-[![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-E62B1E?logoColor=white)](https://www.credly.com/badges/b9e8aa12-4c4d-4549-860f-88dc8721b436/linked_in_profile)
-&nbsp;&nbsp;  
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f385b9df-a45f-4e34-a625-0463ded17404/linked_in_profile)
 
+[![CRTP](https://img.shields.io/badge/Altered%20Security-CRTP-8B0000?logoColor=white)](https://www.credential.net/ef20790d-8698-41bb-8b7b-2a150bf9884e#acc.eWaQ5qC8)
+
+[![GXPN](https://img.shields.io/badge/GIAC-GXPN-red?logoColor=white)](https://www.credly.com/badges/a4091bc3-482a-4447-a8c1-a3489a6c9b5a/linked_in_profile)
+[![GPEN](https://img.shields.io/badge/GIAC-GPEN-red?logoColor=white)](https://www.credly.com/badges/c16e7031-bea7-44fd-9d99-1ae781e02590/linked_in_profile)
+[![GWAPT](https://img.shields.io/badge/GIAC-GWAPT-red?logoColor=white)](https://www.credly.com/badges/49b15c4a-d686-4e78-9ff3-3a4cde9b2072/linked_in_profile)
+[![GCIH](https://img.shields.io/badge/GIAC-GCIH-red?logoColor=white)](https://www.credly.com/badges/99c0cc11-b760-43ed-9ee7-d38a2a143feb/linked_in_profile)
+[![GSEC](https://img.shields.io/badge/GIAC-GSEC-blue?logoColor=white)](https://www.credly.com/badges/d78960d3-3aae-4933-8893-4bf105b48923/linked_in_profile)
+[![GFACT](https://img.shields.io/badge/GIAC-GFACT-purple?logoColor=white)](https://www.credly.com/badges/d473aff5-27e2-45d7-abf4-f4e0a2bb5790/linked_in_profile)
+[![GIAC Advisory Board](https://img.shields.io/badge/GIAC-Advisory%20Board-FFD700?logoColor=white)](https://www.credly.com/badges/88da592c-90f0-483d-9e09-93462a06a7fe/linked_in_profile)
+
+[![PNPT](https://img.shields.io/badge/TCM%20Security-PNPT-9b0000?logoColor=white)](https://certified.tcm-sec.com/bea749eb-a244-42cd-bafb-18988d5e554d#acc.tixaW9NP)
+[![PJPT](https://img.shields.io/badge/TCM%20Security-PJPT-9b0000?logoColor=white)](https://certified.tcm-sec.com/776f2019-2622-424e-abc5-30f6d8a9e1fd#acc.yxN0fos1)
+
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E62B1E?logoColor=white)](https://www.credly.com/badges/b9e8aa12-4c4d-4549-860f-88dc8721b436/linked_in_profile)
+[![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-E62B1E?logoColor=white)](https://www.credly.com/badges/0cd93497-b84a-4ffe-80b7-7f830456d40e/linked_in_profile)
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logoColor=white)](https://www.credly.com/badges/f385b9df-a45f-4e34-a625-0463ded17404/linked_in_profile)
 ## Education
 * Penetration Testing & Ethical Hacking Graduate Certificate - SANS Technology Institute
 * Bachelor's, Cybersecurity - Southern New Hampshire University
