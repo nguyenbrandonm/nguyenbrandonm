@@ -60,6 +60,10 @@ Methodical. Adaptable. Calm at the console.
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logoColor=white)](https://www.credly.com/badges/f385b9df-a45f-4e34-a625-0463ded17404/linked_in_profile)
 ## Education
-* Penetration Testing & Ethical Hacking Graduate Certificate - SANS Technology Institute
-* Bachelor's, Cybersecurity - Southern New Hampshire University
-* Undergraduate Certificate in Applied Cybersecurity (ACS) - SANS Technology Institute
+## Education
+
+[![SANS Graduate Certificate](https://img.shields.io/badge/SANS%20Technology%20Institute-Penetration%20Testing%20%26%20Ethical%20Hacking-8B0000?logoColor=white)](https://www.parchment.com/lp/award/41b5b042-9412-4a7a-9d0b-516afd0237f8)
+
+[![SNHU Bachelor's](https://img.shields.io/badge/Southern%20New%20Hampshire%20University-B.S.%20Cybersecurity-0055A5?logoColor=white)](https://www.parchment.com/lp/award/ec780137-3149-487a-a8e7-27169a67d639)
+
+[![SANS ACS](https://img.shields.io/badge/SANS%20Technology%20Institute-Applied%20Cybersecurity%20Certificate-8B0000?logoColor=white)](https://www.parchment.com/lp/award/f11976c1-0d77-4096-91f2-11c058bc75ed)
