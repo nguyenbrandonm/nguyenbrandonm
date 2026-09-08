@@ -42,6 +42,8 @@ Methodical. Adaptable. Calm at the console.
 # Credentials
 ## Certifications
 
+[![CRTO](https://img.shields.io/badge/Zero--Point%20Security-CRTO-B80000?logoColor=white)](https://certs.zeropointsecurity.co.uk/48abaa7c-9464-4000-b981-6884b9062aef)
+
 [![CRTP](https://img.shields.io/badge/Altered%20Security-CRTP-8B0000?logoColor=white)](https://www.credential.net/ef20790d-8698-41bb-8b7b-2a150bf9884e#acc.eWaQ5qC8)
 
 [![GXPN](https://img.shields.io/badge/GIAC-GXPN-red?logoColor=white)](https://www.credly.com/badges/a4091bc3-482a-4447-a8c1-a3489a6c9b5a/linked_in_profile)
