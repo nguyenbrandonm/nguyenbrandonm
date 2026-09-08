@@ -62,7 +62,6 @@ Methodical. Adaptable. Calm at the console.
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logoColor=white)](https://www.credly.com/badges/f385b9df-a45f-4e34-a625-0463ded17404/linked_in_profile)
 ## Education
-## Education
 
 [![SANS Graduate Certificate](https://img.shields.io/badge/SANS%20Technology%20Institute-Penetration%20Testing%20%26%20Ethical%20Hacking-8B0000?logoColor=white)](https://www.parchment.com/lp/award/41b5b042-9412-4a7a-9d0b-516afd0237f8)
 
